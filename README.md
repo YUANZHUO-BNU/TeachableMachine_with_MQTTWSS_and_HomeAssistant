@@ -100,4 +100,4 @@ tbd
 
 ## Acknowledgments
 
-This repository is based on [kasperkamperman/MobileCameraTemplate](https://github.com/kasperkamperman/MobileCameraTemplate)
+The camera part is based on [kasperkamperman/MobileCameraTemplate](https://github.com/kasperkamperman/MobileCameraTemplate)
