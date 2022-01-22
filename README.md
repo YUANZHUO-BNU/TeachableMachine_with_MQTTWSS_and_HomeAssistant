@@ -8,6 +8,8 @@ In this repository, I use a raspberry pi 4 with [Hass.io](https://www.home-assis
 <https://ping.hass.live><br>
 <https://www.bilibili.com/video/BV1eE411j7om/>
 
+![微信截图_20220122104940](https://user-images.githubusercontent.com/29118280/150622092-2dfd8464-7336-4edd-b341-cc49e5903193.png)
+
 ## Requirement
 
 - an **x86** web server (Debian/Ubuntu/CentOS, etc. /WSL)
